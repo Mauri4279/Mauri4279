@@ -1,7 +1,4 @@
 # 👋 ¡Hola! Soy Mauricio Ruiz
----
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruizm4279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruizm4279@gmail.com)
 
 Actualmente estoy construyendo mi perfil profesional orientado a Data, Inteligencia Artificial y Calidad de Software (QA). Me interesa entender cómo funcionan los sistemas, trabajar con datos para obtener información valiosa y desarrollar software confiable mediante buenas prácticas de calidad.
 
