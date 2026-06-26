@@ -3,26 +3,18 @@
 Actualmente estoy construyendo mi perfil profesional orientado a Data, Inteligencia Artificial y Calidad de Software (QA). Me interesa entender cómo funcionan los sistemas, trabajar con datos para obtener información valiosa y desarrollar software confiable mediante buenas prácticas de calidad.
 
 ---
-## 🎯 Actualmente me encuentro aprendiendo
-
-- 📊 Ciencia de Datos
-- 🤖 Machine Learning
-- 🧪 QA Automation
-- 📈 Visualización y análisis de datos
-
----
 
 ## 🛠️ Tecnologías
 
-- Python
-- SQL
-- Java
-- Pandas
-- NumPy
-- Scikit-learn
-- Selenium
-- JUnit
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
